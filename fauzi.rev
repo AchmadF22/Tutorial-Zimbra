@@ -1,0 +1,11 @@
+$TTL 1D
+@	IN	SOA	bojong.co.id. admin.bojong.co.id. (
+					10	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+@	IN	NS	bojong.co.id.
+189	IN	PTR	bojong.co.id.
+200	IN	PTR	webmail.bojong.co.id.	
+195	IN	PTR	mta.bojong.co.id.	
