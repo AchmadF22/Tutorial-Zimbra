@@ -1,0 +1,31 @@
+Untuk lab kali ini akan kita install pada mesin virtual sebagai berikut :
+
+Zimbra LDAP
+Zimbra Proxy
+Zimbra Mailbox
+Zimbra MTA
+untuk versi zimbra kita mengunakan ini zcs-8.7.10_GA_1829.RHEL7_64.20170524161336.tgz
+
+
+Requirement Zimbra multi server
+
+Zimbra LDAP
+Hostname	ldap.routelcoud.net
+RAM	1GB
+HDD	40GB
+IP Address	10.8.100.100
+Zimbra Mailbox
+Hostname	mailbox.routelcoud.net
+RAM	1GB
+HDD	40GB
+IP Address	10.8.100.101
+Zimbra MTA
+Hostname	mta.routelcoud.net
+RAM	1GB
+HDD	40GB
+IP Address	10.8.100.102
+Zimbra Proxy
+Hostname	webmail.routelcoud.net
+RAM	1GB
+HDD	40GB
+IP Address	10.8.100.103
