@@ -1,6 +1,6 @@
 # Tutorial-Zimbra
 
-## Caca Instalisasi Zimbra Single Server
+## Caca Instalasi Zimbra Single Server
 
     Pada tutorial kali ini kita akan mencoba untuk install zimbra multi server, dimana sebelumnya kita sudah mencoba setting zimbra             standalone disini . 
     Dimana kalo setting standalone artinya semua service zimbra berjalan pada satu mesin yang sama, dan ketika satu mesin tersebut down
