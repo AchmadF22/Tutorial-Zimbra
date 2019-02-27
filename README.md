@@ -23,7 +23,7 @@ This repository contains the build script and supporting files required to creat
 * In case you need to customze the images for your purposes, you could maintain your own Dockerfile such as this:
 
 
-      cat Dockerfile
+    cat Dockerfile
         FROM zimbra/zm-base-os:devcore-ubuntu-16.04
         RUN sudo apt-get install emacs my-special-tool etc..
         RUN ...
