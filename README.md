@@ -1,6 +1,6 @@
 # Tutorial-Zimbra
 
-https://goo.gl/images/eCHZb6
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjd3K2x49vgAhUDk3AKHWd-A5UQjRx6BAgBEAU&url=https%3A%2F%2Fwiki.zimbra.com%2Fwiki%2FEnabling_Zimbra_Proxy_and_memcached&psig=AOvVaw1lM_PxvP1hFmDc1TT2VriB&ust=1551351652704868
 
 ## Caca Instalisasi Zimbra Single Server
 
