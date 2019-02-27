@@ -22,10 +22,10 @@ This repository contains the build script and supporting files required to creat
 * You can then pull and run using development images (built from Zimbra/zm-base-os.git)
 * In case you need to customze the images for your purposes, you could maintain your own Dockerfile such as this:
 
-cat Dockerfile
-FROM zimbra/zm-base-os:devcore-ubuntu-16.04
-RUN sudo apt-get install emacs my-special-tool etc..
-RUN ...
+  cat Dockerfile
+  FROM zimbra/zm-base-os:devcore-ubuntu-16.04
+  RUN sudo apt-get install emacs my-special-tool etc..
+  RUN ...
 
 docker build -t myuser/my-devcore-ubuntu-16 .
 docker run -it myuser/my-devcore-ubuntu-16 bash
