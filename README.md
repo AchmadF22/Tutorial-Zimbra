@@ -19,3 +19,6 @@ zimbra collaboration suite (ZCS) adalah server email yang bersifat opensource da
   Mail = mail.routecloud.idn
 ```
 
+Berikut langkah - langkah instalasi Zimbra Single Server :
+
+
