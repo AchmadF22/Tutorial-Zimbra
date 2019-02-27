@@ -16,7 +16,7 @@ This repository contains the build script and supporting files required to creat
       build each component repository.
     * `FOSS_staging_list.pl` - defines the staging order and details.
 
-## Setup with Zimbra Development Images (used for building)
+# Setup with Zimbra Development Images (used for building)
 
 * Set up docker on your box
 * You can then pull and run using development images (built from Zimbra/zm-base-os.git)
