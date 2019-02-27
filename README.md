@@ -32,7 +32,7 @@ This repository contains the build script and supporting files required to creat
 
 ### Ubuntu 16.04
 
-    docker run -it zimbra/zm-base-os:devcore-ubuntu-16.04 bash
+docker run -it zimbra/zm-base-os:devcore-ubuntu-16.04 bash
 
 ### Ubuntu 14.04
 
