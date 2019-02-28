@@ -1,4 +1,4 @@
-# Tutorial Instalasi Zimbra Single Server di CentOS 7
+# Tutorial Instalasi Zimbra di CentOS 7
 
 ## Apa itu Zimbra ??
 
@@ -19,7 +19,7 @@ Zimbra Collaboration Suite kompatibel dengan klien seperti Microsoft Outlook dan
 * Bisa diakses lokal maupun publik
 * Mendukung berbagai tipe dan distro Linux
 
-## Rekomendasi
+## Spesifikasi Instalasi Zimbra Single Server
 
 * Spesifikasi Hardware
 ```bash
