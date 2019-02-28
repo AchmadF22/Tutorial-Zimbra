@@ -109,7 +109,37 @@ root@mail:~# wget https://files.zimbra.com/downloads/8.6.0_GA/zcs-8.6.0_GA_1153.
 root@mail:~# tar -xzf zcs-8.6.0_GA_1153.RHEL7_64.20141215151110.tgz
 root@mail:~# cd zcs-8.6.0_GA_1153.RHEL7_64.20141215151110
 ```
-Now, we are going to install the ZCS package using the script
+Sekarang, kita akan install the ZCS package
+
+```bash
+[root@mail zcs-8.6.0_GA_1153.RHEL7_64.20141215151110]# ./install.sh
+
+Operations logged to /tmp/install.log.14668
+Checking for existing installation...
+    zimbra-ldap...NOT FOUND
+    zimbra-logger...NOT FOUND
+    zimbra-mta...NOT FOUND
+    zimbra-dnscache...NOT FOUND
+    zimbra-snmp...NOT FOUND
+    zimbra-store...NOT FOUND
+    zimbra-apache...NOT FOUND
+    zimbra-spell...NOT FOUND
+    zimbra-convertd...NOT FOUND
+    zimbra-memcached...NOT FOUND
+    zimbra-proxy...NOT FOUND
+    zimbra-archiving...NOT FOUND
+    zimbra-core...NOT FOUND
 
 
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THE SOFTWARE.
+ZIMBRA, INC. ("ZIMBRA") WILL ONLY LICENSE THIS SOFTWARE TO YOU IF YOU
+FIRST ACCEPT THE TERMS OF THIS AGREEMENT. BY DOWNLOADING OR INSTALLING
+THE SOFTWARE, OR USING THE PRODUCT, YOU ARE CONSENTING TO BE BOUND BY
+THIS AGREEMENT. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS
+AGREEMENT, THEN DO NOT DOWNLOAD, INSTALL OR USE THE PRODUCT.
 
+License Terms for the Zimbra Collaboration Suite:
+
+http://www.zimbra.com/license/zimbra-public-eula-2-5.html
+
+Do you agree with the terms of the software license agreement? [N] Y
