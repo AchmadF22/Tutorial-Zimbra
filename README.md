@@ -14,11 +14,16 @@ zimbra collaboration suite (ZCS) adalah server email yang bersifat opensource da
 ```
 * Settingan Server
 ```bash
-  Domain = bojong.co.id
-  IP address = 192.168.1.57
-  Mail = mail.routecloud.idn
+  Domain = cilebut.co.id
+  IP address = 192.168.1.192
+  Mail = mail.cilebut.co.id
 ```
 
 Berikut langkah - langkah instalasi Zimbra Single Server :
+
+Pertama setting hostname:
+```bash
+root@ubuntu:~# nano /etc/hostname  
+mail.routecloud.idn
 
 
