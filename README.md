@@ -35,9 +35,20 @@ Zimbra Collaboration Suite kompatibel dengan klien seperti Microsoft Outlook dan
  > Menambah jumlah penyimpanan hdd untuk penyimpanan mail
  > Menonaktifkan atau disable firewall sistem operasi
 ```
-* Setting Hostname
+
+## Spesifikasi Instalasi Zimbra Multi Server
+
+* Kebutuhan untuk testing atau percobaan
 ```bash
- Domain = cilebut.co.id
- IP address = 192.168.1.198
- Mail = mail.cilebut.co.id
+ > Intel atau AMD 64 bit CPU 1.5 Ghz
+ > Minimal RAM 8 GB ( bisa di sesuaikan 2 GB atau 4 GB juga cukup )
+ > Sisakan 5 GB penyimpanan space hdd untuk software dan logs zimbra
+```
+* Kebutuhan untuk penerapan atau implementasi
+```bash 
+ > Intel atau AMD 64 bit CPU 2.0 Ghz
+ > Minimal RAM 8GB
+ > Sisakan 10 GB penyimpanan space hdd untuk software dan logs zimbra
+ > Menambah jumlah penyimpanan hdd untuk penyimpanan mail
+ > Menonaktifkan atau disable firewall sistem operasi
 ```
