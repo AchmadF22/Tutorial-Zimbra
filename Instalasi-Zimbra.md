@@ -37,8 +37,18 @@ root@mail:~# systemctl disable postfix
 
 ## Instalasi DNS 
 
+* Install Paket DNS
+
 ```bash
+root@mail:~# yum install bind bind-utils -y
+root@mail:~# systemctl start named
 
+(Cek apakah sudah berjalan atau belum)
 
+root@mail:~# systemctl status named
+root@mail:~# systemctl enable named
+```
+* Setting konfigurasi buat DNS
 
-
+root@mail:~# vi /etc/named.conf
+(Isi file named.conf bisa dilihat pada file konfigurasi)
