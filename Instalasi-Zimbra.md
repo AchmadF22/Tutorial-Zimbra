@@ -209,7 +209,6 @@ Finished removing Zimbra Collaboration Server.
 
 (Proses di potong)
 
-
 DNS ERROR resolving MX for mail.cilebut.co.id
 It is suggested that the domain name have an MX record configured in DNS
 Change domain name? [Yes]
