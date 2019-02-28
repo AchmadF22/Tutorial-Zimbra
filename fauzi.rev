@@ -1,0 +1,11 @@
+$TTL 1D
+@	IN	SOA	cilebut.co.id. admin.cilebut.co.id. (
+					10	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+	NS	cilebut.co.id.
+192	PTR	server.cilebut.co.id.
+192	PTR	www.cilebut.co.id.	
+192	PTR	mail.cilebut.co.id.	
