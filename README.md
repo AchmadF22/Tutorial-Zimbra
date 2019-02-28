@@ -19,24 +19,7 @@ Zimbra Collaboration Suite kompatibel dengan klien seperti Microsoft Outlook dan
 * Bisa diakses lokal maupun publik
 * Mendukung berbagai tipe dan distro Linux
 
-## Spesifikasi Instalasi Zimbra Single Server
-
-* Kebutuhan untuk testing atau percobaan
-```bash
- > Intel atau AMD 64 bit CPU 1.5 Ghz
- > Minimal RAM 8 GB ( bisa di sesuaikan 2 GB atau 4 GB juga cukup )
- > Sisakan 5 GB penyimpanan space hdd untuk software dan logs zimbra
-```
-* Kebutuhan untuk penerapan atau implementasi
-```bash 
- > Intel atau AMD 64 bit CPU 2.0 Ghz
- > Minimal RAM 8GB
- > Sisakan 10 GB penyimpanan space hdd untuk software dan logs zimbra
- > Menambah jumlah penyimpanan hdd untuk penyimpanan mail
- > Menonaktifkan atau disable firewall sistem operasi
-```
-
-## Spesifikasi Instalasi Zimbra Multi Server
+## Spesifikasi Instalasi Zimbra Single dan Multi Server
 
 * Kebutuhan untuk testing atau percobaan
 ```bash
