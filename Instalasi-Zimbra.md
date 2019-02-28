@@ -20,4 +20,7 @@ Berikut langkah - langkah instalasi Zimbra Single Server :
 ```bash
  root@mail:~# vi /etc/hostname  
  mail.cilebut.co.id
+ 
+ root@mail:~# vi /etc/hosts  
+ 192.168.1.198 mail.cilebut.co.id mail
 ```
