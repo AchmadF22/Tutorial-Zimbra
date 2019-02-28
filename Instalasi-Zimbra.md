@@ -49,6 +49,7 @@ root@mail:~# systemctl status named
 root@mail:~# systemctl enable named
 ```
 * Setting konfigurasi buat DNS
-
+```bash
 root@mail:~# vi /etc/named.conf
-(Isi file named.conf bisa dilihat pada file konfigurasi)
+(Isi file named.conf bisa dilihat named.conf)
+```
