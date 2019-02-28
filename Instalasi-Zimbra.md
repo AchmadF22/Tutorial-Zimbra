@@ -24,3 +24,21 @@ Berikut langkah - langkah instalasi Zimbra Single Server :
  root@mail:~# vi /etc/hosts  
  192.168.1.198 mail.cilebut.co.id mail
 ```
+
+* Memnonaktifkan Service Firewall dan Postfix
+
+```bash
+root@mail:~# systemctl stop firewalld
+root@mail:~# systemctl disable firewalld
+
+root@mail:~# systemctl stop postfix
+root@mail:~# systemctl disable postfix
+```
+
+## Instalasi DNS 
+
+```bash
+
+
+
+
