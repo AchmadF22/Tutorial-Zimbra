@@ -143,3 +143,68 @@ License Terms for the Zimbra Collaboration Suite:
 http://www.zimbra.com/license/zimbra-public-eula-2-5.html
 
 Do you agree with the terms of the software license agreement? [N] Y
+
+Checking for installable packages
+
+Found zimbra-core
+Found zimbra-ldap
+Found zimbra-logger
+Found zimbra-mta
+Found zimbra-dnscache
+Found zimbra-snmp
+Found zimbra-store
+Found zimbra-apache
+Found zimbra-spell
+Found zimbra-memcached
+Found zimbra-proxy
+
+
+Select the packages to install
+
+Install zimbra-ldap [Y]
+
+Install zimbra-logger [Y]
+
+Install zimbra-mta [Y]
+
+Install zimbra-dnscache [Y] N
+
+Install zimbra-snmp [Y]
+
+Install zimbra-store [Y]
+
+Install zimbra-apache [Y]
+
+Install zimbra-spell [Y]
+
+Install zimbra-memcached [Y]
+
+Install zimbra-proxy [Y]
+Checking required space for zimbra-core
+Checking space for zimbra-store
+Checking required packages for zimbra-store
+zimbra-store package check complete.
+
+Installing:
+    zimbra-core
+    zimbra-ldap
+    zimbra-logger
+    zimbra-mta
+    zimbra-snmp
+    zimbra-store
+    zimbra-apache
+    zimbra-spell
+    zimbra-memcached
+    zimbra-proxy
+
+The system will be modified.  Continue? [N] Y
+
+Removing /opt/zimbra
+Removing zimbra crontab entry...done.
+Cleaning up zimbra init scripts...done.
+Cleaning up /etc/ld.so.conf...done.
+Cleaning up /etc/security/limits.conf...done.
+
+Finished removing Zimbra Collaboration Server.
+
+(Proses di potong)
