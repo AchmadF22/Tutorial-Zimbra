@@ -10,7 +10,7 @@ Zimbra Collaboration Suite kompatibel dengan klien seperti Microsoft Outlook dan
 
 ## Perbedaan Zimbra dengan Mail Server Lain
 
-* Tersedia dalam dua lisensi, support komersil dan *open source*
+* Tersedia dalam dua lisensi, mendukung komersil dan *open source*
 * Jauh lebih ringan dibandingkan Exchange, jauh lebih lengkap dibandingkan Mdaemon, Qmail maupun Postfix
 * Tidak memerlukan lisensi untuk server
 * Bisa berjalan pada service port RQM 22, postfix 25, HTTP 80, POP3 110, IMAP 143, LDAP 389, HTTPS 443
@@ -21,13 +21,21 @@ Zimbra Collaboration Suite kompatibel dengan klien seperti Microsoft Outlook dan
 
 ## Spesifikasi Instalasi Zimbra Single Server
 
-* Spesifikasi Hardware
+* Kebutuhan untuk testing atau percobaan.
 ```bash
- Processor Intel/AMD 64-Bit CPU 1.5 GHz
- RAM single server minimul 6/8 GB
- 5 GB free disk untuk software dan logs
+ ** Intel atau AMD 64 bit CPU 1.5 Ghz
+ ** Minimal RAM 8 GB ( bisa di sesuaikan 2 GB atau 4 GB juga cukup )
+ ** Sisakan 5 GB penyimpanan space hdd untuk software dan logs zimbra
 ```
-* Settingan Server
+* Kebutuhan untuk penerapan atau implementasi.
+```bash 
+ ** Intel atau AMD 64 bit CPU 2.0 Ghz
+ ** Minimal RAM 8GB
+ ** Sisakan 10 GB penyimpanan space hdd untuk software dan logs zimbra
+ ** Menambah jumlah penyimpanan hdd untuk penyimpanan mail
+ ** Menonaktifkan atau disable firewall sistem operasi
+```
+* Setting Hostname
 ```bash
  Domain = cilebut.co.id
  IP address = 192.168.1.198
