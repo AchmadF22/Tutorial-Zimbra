@@ -1,9 +1,15 @@
-# Tutorial-Zimbra
+# Tutorial Instalasi Zimbra Single Server di CentOS 7
 
-## Panduan Instalasi Zimbra Single Server
+## Apa itu Zimbra ??
 
-zimbra collaboration suite (ZCS) adalah server email yang bersifat opensource dan free dan memiliki fitur yang sangat bagus untuk enterprise , kampus ataupun komunias.sebenernya zimbra itu hampir sama dengan mail server yang lainnya seperti sendmail,postfix ataupun qmail. dan sebenarnya zimbra memakai mail servernya postfix, namun zimbra memiliki fitur lebih lengkap sehingga sangat recommend untuk kampus, perusahaan ataupun perusahaan yang memiliki user banyak.
-    
+Zimbra merupakan sebuah produk groupware produk Zimbra, Inc, yang terletak di San Mateo, California, Amerika Serikat. Perusahaan ini dibeli oleh Yahoo pada September 2007. Perangkat lunak ini terdiri dari komponen klien dan server. Zimbra tersedia dalam dua versi, yaitu Open Source, dan Komersil. Versi perangkat lunak ini tersedia dari Zimbra untuk diunduh dan digunakan dengan bebas, serta dari mitra resmi Zimbra.(Wikipedia, 2013)
+
+## Perbedaan Zimbra dengan Mail Server Lain
+
+* Tersedia dalam dua lisensi, support komersil dan *open source*
+* Jauh lebih ringan dibandingkan Exchange, jauh lebih lengkap dibandingkan Mdaemon, Qmail maupun Postfix
+* Tidak memerlukan lisensi untuk server
+
 ## Rekomendasi
 
 * Spesifikasi Hardware
