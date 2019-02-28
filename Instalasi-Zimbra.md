@@ -51,5 +51,5 @@ root@mail:~# systemctl enable named
 * Setting konfigurasi buat DNS
 ```bash
 root@mail:~# vi /etc/named.conf
-(Bisa dilihat isi filenya yang sudah di upload)
+(Bisa dilihat isi filenya yang sudah di upload sesuai dengan nama named.conf)
 ```
