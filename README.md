@@ -30,6 +30,6 @@ Zimbra Collaboration Suite kompatibel dengan klien seperti Microsoft Outlook dan
 * Settingan Server
 ```bash
  Domain = cilebut.co.id
- IP address = 192.168.1.192
+ IP address = 192.168.1.198
  Mail = mail.cilebut.co.id
 ```
