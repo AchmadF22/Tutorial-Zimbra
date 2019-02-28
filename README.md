@@ -35,3 +35,5 @@ Zimbra Collaboration Suite kompatibel dengan klien seperti Microsoft Outlook dan
  > Menambah jumlah penyimpanan hdd untuk penyimpanan mail
  > Menonaktifkan atau disable firewall sistem operasi
 ```
+
+##Untuk Proses Instalasi bisa dilihat pada file 
