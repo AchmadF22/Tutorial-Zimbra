@@ -99,8 +99,17 @@ Server:         192.168.1.198
 Address:        192.168.1.198#53
 
 192.1.168.198.in-addr.arpa      name = mail.cilebut.co.id.
-
 ```
+## Instalasi Zimbra
+
+Download paket Zimbra terlebih dahulu 
+
+```bash
+root@mail:~# wget https://files.zimbra.com/downloads/8.6.0_GA/zcs-8.6.0_GA_1153.RHEL7_64.20141215151110.tgz
+root@mail:~# tar -xzf zcs-8.6.0_GA_1153.RHEL7_64.20141215151110.tgz
+root@mail:~# cd zcs-8.6.0_GA_1153.RHEL7_64.20141215151110
+```
+Now, we are going to install the ZCS package using the script
 
 
 
