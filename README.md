@@ -36,4 +36,4 @@ Zimbra Collaboration Suite kompatibel dengan klien seperti Microsoft Outlook dan
  > Menonaktifkan atau disable firewall sistem operasi
 ```
 
-##Untuk Proses Instalasi bisa dilihat pada file 
+## Untuk proses instalasi bisa dilihat pada file Instalasi-Zimbra.md
