@@ -299,7 +299,7 @@ Store configuration
   19) Enable version update checks:            TRUE
   20) Enable version update notifications:     TRUE
   21) Version update notification email:       admin@cilebut.co.id
-  22) Version update source email:             admin@centos7.unixmen.local
+  22) Version update source email:             admin@cilebut.co.id
   23) Install mailstore (service webapp):      yes
   24) Install UI (zimbra,zimbraAdmin webapps): yes
 
@@ -311,13 +311,13 @@ Store configuration
 
    1) Status:                                  Enabled
    2) Create Admin User:                       yes
-   3) Admin user to create:                    admin@example.local
+   3) Admin user to create:                    admin@cilebut.co.id
    4) Admin Password                           set
-   5) Anti-virus quarantine user:              virus-quarantine.fsbv7fj6r0@example.local
+   5) Anti-virus quarantine user:              virus-quarantine.fsbv7fj6r0@cilebut.co.id
    6) Enable automated spam training:          yes
-   7) Spam training user:                      spam.7xlmrmrh3@example.local
-   8) Non-spam(Ham) training user:             ham.rt_1on1o@example.local
-   9) SMTP host:                               mail.example.local
+   7) Spam training user:                      spam.7xlmrmrh3@cilebut.co.id
+   8) Non-spam(Ham) training user:             ham.rt_1on1o@cilebut.co.id
+   9) SMTP host:                               mail.cilebut.co.id
   10) Web server HTTP port:                    8080
   11) Web server HTTPS port:                   8443
   12) Web server mode:                         https
@@ -326,29 +326,29 @@ Store configuration
   15) POP server port:                         7110
   16) POP server SSL port:                     7995
   17) Use spell check server:                  yes
-  18) Spell server URL:                        http://mail.example.local:7780/aspell.php
+  18) Spell server URL:                        http://mail.cilebut.co.id:7780/aspell.php
   19) Enable version update checks:            TRUE
   20) Enable version update notifications:     TRUE
-  21) Version update notification email:       admin@centos7.unixmen.local
-  22) Version update source email:             admin@centos7.unixmen.local
+  21) Version update notification email:       admin@cilebut.co.id
+  22) Version update source email:             admin@cilebut.co.id
   23) Install mailstore (service webapp):      yes
   24) Install UI (zimbra,zimbraAdmin webapps): yes
 
 Select, or 'r' for previous menu [r] 21
 
-Version update destination address: [admin@centos7.unixmen.local] admin@example.local
+Version update destination address: [admin@cilebut.co.id] admin@cilebut.co.id
 
 Store configuration
 
    1) Status:                                  Enabled
    2) Create Admin User:                       yes
-   3) Admin user to create:                    admin@example.local
+   3) Admin user to create:                    admin@cilebut.co.id
    4) Admin Password                           set
-   5) Anti-virus quarantine user:              virus-quarantine.fsbv7fj6r0@example.local
+   5) Anti-virus quarantine user:              virus-quarantine.fsbv7fj6r0@cilebut.co.id
    6) Enable automated spam training:          yes
-   7) Spam training user:                      spam.7xlmrmrh3@example.local
-   8) Non-spam(Ham) training user:             ham.rt_1on1o@example.local
-   9) SMTP host:                               mail.example.local
+   7) Spam training user:                      spam.7xlmrmrh3@cilebut.co.id
+   8) Non-spam(Ham) training user:             ham.rt_1on1o@cilebut.co.id
+   9) SMTP host:                               mail.cilebut.co.id
   10) Web server HTTP port:                    8080
   11) Web server HTTPS port:                   8443
   12) Web server mode:                         https
@@ -357,29 +357,29 @@ Store configuration
   15) POP server port:                         7110
   16) POP server SSL port:                     7995
   17) Use spell check server:                  yes
-  18) Spell server URL:                        http://mail.example.local:7780/aspell.php
+  18) Spell server URL:                        http://mail.cilebut.co.id:7780/aspell.php
   19) Enable version update checks:            TRUE
   20) Enable version update notifications:     TRUE
-  21) Version update notification email:       admin@example.local
-  22) Version update source email:             admin@centos7.unixmen.local
+  21) Version update notification email:       admin@cilebut.co.id
+  22) Version update source email:             admin@cilebut.co.id
   23) Install mailstore (service webapp):      yes
   24) Install UI (zimbra,zimbraAdmin webapps): yes
 
 Select, or 'r' for previous menu [r] 22
 
-Version update source address: [admin@centos7.unixmen.local] admin@example.local
+Version update source address: [admin@centos7.unixmen.local] admin@cilebut.co.id
 
 Store configuration
 
    1) Status:                                  Enabled
    2) Create Admin User:                       yes
-   3) Admin user to create:                    admin@example.local
+   3) Admin user to create:                    admin@cilebut.co.id
    4) Admin Password                           set
-   5) Anti-virus quarantine user:              virus-quarantine.fsbv7fj6r0@example.local
+   5) Anti-virus quarantine user:              virus-quarantine.fsbv7fj6r0@cilebut.co.id
    6) Enable automated spam training:          yes
-   7) Spam training user:                      spam.7xlmrmrh3@example.local
-   8) Non-spam(Ham) training user:             ham.rt_1on1o@example.local
-   9) SMTP host:                               mail.example.local
+   7) Spam training user:                      spam.7xlmrmrh3@cilebut.co.id
+   8) Non-spam(Ham) training user:             ham.rt_1on1o@cilebut.co.id
+   9) SMTP host:                               mail.cilebut.co.id
   10) Web server HTTP port:                    8080
   11) Web server HTTPS port:                   8443
   12) Web server mode:                         https
@@ -388,11 +388,11 @@ Store configuration
   15) POP server port:                         7110
   16) POP server SSL port:                     7995
   17) Use spell check server:                  yes
-  18) Spell server URL:                        http://mail.example.local:7780/aspell.php
+  18) Spell server URL:                        http://mail.cilebut.co.id:7780/aspell.php
   19) Enable version update checks:            TRUE
   20) Enable version update notifications:     TRUE
-  21) Version update notification email:       admin@example.local
-  22) Version update source email:             admin@example.local
+  21) Version update notification email:       admin@cilebut.co.id
+  22) Version update source email:             admin@cilebut.co.id
   23) Install mailstore (service webapp):      yes
   24) Install UI (zimbra,zimbraAdmin webapps): yes
 
