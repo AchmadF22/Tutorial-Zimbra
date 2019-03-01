@@ -405,7 +405,10 @@ Main menu
 
 *** CONFIGURATION COMPLETE - press 'a' to apply
 Select from menu, or press 'a' to apply config (? - help) a
-Save configuration data to a file? [Yes]
+Save configuration data to a file? [Yes] Yes
+Save config in file: [/opt/zimbra/config.23920] Yes
+Saving config in /opt/zimbra/config.23920...done.
+The system will be modified - continue? [No] Yes
 
 (Proses instalasi dipotong)
 
@@ -428,5 +431,10 @@ Moving /tmp/zmsetup01032015-084819.log to /opt/zimbra/log
 Configuration complete - press return to exit
 
 (Proses instalasi sudah selesai)
+```
+Selanjutnya menjalankan *service* zimbra
 
+```bash
+root@mail:~# su - zimbra
+root@mail:~# zmcontrol status
 
