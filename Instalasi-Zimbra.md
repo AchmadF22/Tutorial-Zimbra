@@ -432,7 +432,7 @@ Configuration complete - press return to exit
 
 (Proses instalasi sudah selesai)
 ```
-Selanjutnya menjalankan *service* zimbra
+Selanjutnya pengecekkan *service* zimbra
 
 ```bash
 root@mail:~# su - zimbra
@@ -456,5 +456,13 @@ Host mail.cilebut.co.id
         zimlet webapp           Running
         zmconfigd               Running
 ```
+Tahap terakhir cek zimbra via web browser
 
+```bash
+(cek admin)
+https://(IP Address):7071
+
+(cek client)
+https://(IP Address)
+```
 
