@@ -1,4 +1,4 @@
-# Tutorial Install Single Server Zimbra
+# Tutorial Install Zimbra Single Server
 
 * Spesifikasi Hardware
 ```bash
