@@ -407,3 +407,26 @@ Main menu
 Select from menu, or press 'a' to apply config (? - help) a
 Save configuration data to a file? [Yes]
 
+(Proses instalasi dipotong)
+
+Creating galsync account for default domain...done.
+
+You have the option of notifying Zimbra of your installation.
+This helps us to track the uptake of the Zimbra Collaboration Server.
+The only information that will be transmitted is:
+        The VERSION of zcs installed (8.6.0_GA_1153_RHEL7_64)
+        The ADMIN EMAIL ADDRESS created (admin@cilebut.co.id)
+
+Notify Zimbra of your installation? [Yes] no
+Notification skipped
+Setting up zimbra crontab...done.
+
+
+Moving /tmp/zmsetup01032015-084819.log to /opt/zimbra/log
+
+
+Configuration complete - press return to exit
+
+(Proses instalasi sudah selesai)
+
+
