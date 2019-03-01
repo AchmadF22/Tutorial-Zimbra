@@ -436,5 +436,25 @@ Selanjutnya menjalankan *service* zimbra
 
 ```bash
 root@mail:~# su - zimbra
-root@mail:~# zmcontrol status
+[zimbra@mail ~]$ zmcontrol status
+Host mail.cilebut.co.id
+        amavis                  Running
+        antispam                Running
+        antivirus               Running
+        ldap                    Running
+        logger                  Running
+        mailbox                 Running
+        memcached               Running
+        mta                     Running
+        opendkim                Running
+        service webapp          Running
+        snmp                    Running
+        spell                   Running
+        stats                   Running
+        zimbra webapp           Running
+        zimbraAdmin webapp      Running
+        zimlet webapp           Running
+        zmconfigd               Running
+```
+
 
