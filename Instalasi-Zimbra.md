@@ -224,11 +224,11 @@ DNS ERROR resolving MX for mail.cilebut.co.id
 It is suggested that the domain name have an MX record configured in DNS
 Change domain name? [Yes]
 Create domain: [mail.cilebut.co.id] cilebut.co.id
-        MX: mail.example.local (192.168.1.192)
+        MX: mail.example.local (192.168.1.198)
 
         Interface: 127.0.0.1
         Interface: ::1
-        Interface: 192.168.1.192
+        Interface: 192.168.1.198
 done.
 Checking for port conflicts
 
