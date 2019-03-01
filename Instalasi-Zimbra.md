@@ -1,6 +1,7 @@
 # Tutorial Install Zimbra Single Server
 
 * Spesifikasi Hardware
+
 ```bash
  Processor Intel/AMD 64-Bit CPU 1.5 GHz
  RAM single server minimul 6/8 GB
@@ -8,6 +9,7 @@
 ```
 
 * Settingan Server
+
 ```bash
  Domain = cilebut.co.id
  IP address = 192.168.1.198
@@ -16,7 +18,15 @@
 
 Berikut langkah - langkah instalasi Zimbra Single Server :
 
-* Merubah pengaturan hostname :
+Untuk proses instalasi menggunakan super user atau user root
+
+```bash
+zimbra@mail:~$ su -
+password:
+root@mail:~# 
+```
+* Merubah pengaturan hostname
+
 ```bash
  root@mail:~# vi /etc/hostname  
  mail.cilebut.co.id
@@ -61,6 +71,7 @@ root@mail:~# systemctl status named
 root@mail:~# systemctl enable named
 ```
 * Konfigurasi DNS dan Deklarasi IP dan Domain
+
 ```bash
 root@mail:~# vi /etc/named.conf
 (Bisa dilihat isi filenya yang sudah di upload pada list diatas)
