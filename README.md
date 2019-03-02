@@ -23,7 +23,7 @@ Zimbra Collaboration Suite kompatibel dengan klien seperti Microsoft Outlook dan
 
 ![gambar](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Sample-Arsitektur-Zimbra.png)
 
-* Zimbra LDAP berfungsi sebagai tempat menyimpan data user/password dan seluruh konfigurasi, dia merupakan jantung dari seluruh arsitektur Zimbra, yang berbasiskan Open Source project yaitu OpenLDAP. dan setiap implementasi Zimbra harus memiliki Zimbra OpenLDAP Database.
+* Zimbra LDAP berfungsi sebagai tempat menyimpan data user/password dan seluruh konfigurasi dan berbasiskan Open Source project yaitu OpenLDAP.
 * Zimbra MTA berfungsi untuk menerima email yang datang dari luar dan mengirimkan email ke masing masing mailbox yang dituju ke dalam user Zimbra, dan juga bertanggungjawab untuk mengirimkan email yang berasal dari internal ke luar.
 * Zimbra Mailbox berfungsi sebagai tempat dimana seluruh proses yang berhubungan dengan pengguna diselesaikan, mailbox mengontrol segala sesuatu yang ditampilkan di dalam Zimbra Web Client, sehingga pengguna dapat melihat data mereka. Dia juga berfungsi untuk menerima request dari pengakses, menempatkan data ke dalam media penyimpanan, melakukan indexing, menyimpan seluruh informasi terkait contacts, calendar dan tasks.
 * Zimbra Proxy berfungsi untuk menjawab seluruh request yang datang dari pengguna dengan menggunakan protokol HTTP/S, POP3/S , IMAP/S, ActiveSync, sehingga server-server mailbox tidak perlu berhadapan langsung dengan pengguna.
