@@ -21,7 +21,7 @@ Zimbra Collaboration Suite kompatibel dengan klien seperti Microsoft Outlook dan
 
 ## Arsitektur Zimbra
 
-![alt text](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Sample-Arsitektur-Zimbra.png)
+![Screenshot](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Sample-Arsitektur-Zimbra.png)
 
 
 
