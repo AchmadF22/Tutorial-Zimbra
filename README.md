@@ -42,3 +42,6 @@ Dibawah ini tahapan instalasi **zimbra zingle server dan multi server**
 - [Instruksi untuk **Zimbra Single Server**](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Instalasi-Zimbra.md)
 - [Instruksi untuk **Zimbra Multi Server**](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Instalasi-Zimbra.md)
 
+image:https://www.zimbra.com/wp-content/uploads/2016/06/zimbra-logo-color-282-1.png[Zimbra,link=https://www.zimbra.com]
+image:https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Sample-Arsitektur-Zimbra.png
+
