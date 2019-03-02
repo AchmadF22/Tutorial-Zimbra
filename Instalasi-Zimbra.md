@@ -80,6 +80,11 @@ File konfigurasinya : [klik disini](https://github.com/AchmadF22/Tutorial-Zimbra
 root@mail:~# cd /var/named/
 (Buat file yang sudah dideklarasi pada di file named.conf)
 ```
+Isi dari file master.name: [klik disini](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/master(name).adoc)
+
+Isi dari file master.rev: [klik disini](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/master(rev).adoc)
+
+
 Setelah di konfigurasi buat DNS, lakukan pengecekan kembali pada service DNS, 
 apakah sudah berjalan dengan benar. Caranya yaitu:
 
