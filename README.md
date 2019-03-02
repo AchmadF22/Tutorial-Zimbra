@@ -1,9 +1,7 @@
 # Tutorial Instalasi Zimbra di CentOS 7
 
 Choose one of the following options.
-- [Instructions for *Windows*](#Instalasi-Zimbra.md)
-- [Instructions for *Mac*](#file-mac-md)
-- [Instructions for *Linux*](#file-linux-md)
+- [Instructions for *Linux*](#file-Instalasi-Zimbra-md)
 
 ## Apa itu Zimbra ??
 
