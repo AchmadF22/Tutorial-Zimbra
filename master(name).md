@@ -13,4 +13,4 @@ server	A	192.168.1.198
 www	A	192.168.1.198
 mail	A	192.168.1.198
 ```
-[Kembali](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Instalasi-Zimbra.md)
+[Kembali](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Instalasi-Zimbra.md#instalasi-dns)
