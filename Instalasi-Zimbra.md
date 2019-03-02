@@ -482,5 +482,11 @@ https://(IP Address):7071
 (cek client)
 https://(IP Address)
 ```
+
+## Tampilan Home Zimbra
+
+![](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Single_Server_1.PNG)
+![](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Single_Server_2.PNG)
+
 [**KEMBALI KE BERANDA**](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/README.md)
 
