@@ -244,7 +244,7 @@ DNS ERROR resolving MX for mail.cilebut.co.id
 It is suggested that the domain name have an MX record configured in DNS
 Change domain name? [Yes]
 Create domain: [mail.cilebut.co.id] cilebut.co.id
-        MX: mail.example.local (192.168.1.198)
+        MX: mail.cilebut.co.id (192.168.1.198)
 
         Interface: 127.0.0.1
         Interface: ::1
@@ -325,7 +325,7 @@ Store configuration
 
 Select, or 'r' for previous menu [r] 4
 
-Password for admin@example.local (min 6 characters): [SBmeBXtA] password
+Password for admin@cilebut.co.id (min 6 characters): [SBmeBXtA] password
 
 Store configuration
 
