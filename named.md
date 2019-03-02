@@ -77,4 +77,4 @@ include "/etc/named.rfc1912.zones";
 
 
 ```
-[kembali](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Instalasi-Zimbra.md)
+[Kembali](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Instalasi-Zimbra.md)
