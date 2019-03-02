@@ -1,3 +1,4 @@
+```bash
 $TTL 1D
 @	IN	SOA	cilebut.co.id. admin.cilebut.co.id. (
 					10	; serial
@@ -11,3 +12,4 @@ $TTL 1D
 server	A	192.168.1.198
 www	A	192.168.1.198
 mail	A	192.168.1.198
+```
