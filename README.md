@@ -1,5 +1,10 @@
 # Tutorial Instalasi Zimbra di CentOS 7
 
+Choose one of the following options.
+- [Instructions for *Windows*](#Instalasi-Zimbra.md)
+- [Instructions for *Mac*](#file-mac-md)
+- [Instructions for *Linux*](#file-linux-md)
+
 ## Apa itu Zimbra ??
 
 Zimbra merupakan sebuah produk groupware produk Zimbra, Inc, yang terletak di San Mateo, California, Amerika Serikat. Perusahaan ini dibeli oleh Yahoo pada September 2007. Perangkat lunak ini terdiri dari komponen klien dan server. Zimbra tersedia dalam dua versi, yaitu Open Source, dan Komersil. Versi perangkat lunak ini tersedia dari Zimbra untuk diunduh dan digunakan dengan bebas, serta dari mitra resmi Zimbra.(Wikipedia, 2013)
