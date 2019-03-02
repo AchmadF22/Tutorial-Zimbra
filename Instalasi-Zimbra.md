@@ -75,7 +75,7 @@ root@mail:~# systemctl enable named
 ```bash
 root@mail:~# vi /etc/named.conf
 ```
-File konfigurasinya : [klik disini](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/named.conf)
+File konfigurasinya : [klik disini](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/named.md)
 ```bash
 root@mail:~# cd /var/named/
 (Buat file yang sudah dideklarasi pada di file named.conf)
