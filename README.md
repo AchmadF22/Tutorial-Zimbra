@@ -19,6 +19,12 @@ Zimbra Collaboration Suite kompatibel dengan klien seperti Microsoft Outlook dan
 * Bisa diakses lokal maupun publik
 * Mendukung berbagai tipe dan distro Linux
 
+## Arsitektur Zimbra
+
+![alt text](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Sample-Arsitektur-Zimbra.png)
+
+
+
 ## Spesifikasi Instalasi Zimbra Single dan Multi Server
 
 * Kebutuhan untuk testing atau percobaan
@@ -41,9 +47,3 @@ Zimbra Collaboration Suite kompatibel dengan klien seperti Microsoft Outlook dan
 Dibawah ini tahapan instalasi **zimbra zingle server dan multi server** 
 - [Instruksi untuk **Zimbra Single Server**](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Instalasi-Zimbra.md)
 - [Instruksi untuk **Zimbra Multi Server**](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Instalasi-Zimbra.md)
-
-image:https://www.zimbra.com/wp-content/uploads/2016/06/zimbra-logo-color-282-1.png[Zimbra,link=https://www.zimbra.com]
-
-
-![alt text](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Sample-Arsitektur-Zimbra.png)
-
