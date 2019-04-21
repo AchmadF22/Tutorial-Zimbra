@@ -77,4 +77,4 @@ include "/etc/named.rfc1912.zones";
 
 
 ```
-[Kembali](https://github.com/ProjectOprec/Tutorial-Zimbra/blob/master/Instalasi-Single-Server-Zimbra.md.md#instalasi-dns)
+[Kembali](https://github.com/ProjectOprec/Tutorial-Zimbra/blob/master/Instalasi-Single-Server-Zimbra.md#instalasi-dns)
