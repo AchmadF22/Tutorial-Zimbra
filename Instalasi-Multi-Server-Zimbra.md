@@ -1,6 +1,6 @@
-# Tutorial Install Zimbra Single Server
+# Tutorial Install Zimbra Multi Server
 
-* Spesifikasi Hardware
+* Requirement Zimbra multi server
 
 ```bash
  Processor Intel/AMD 64-Bit CPU 1.5 GHz
@@ -8,12 +8,52 @@
  5 GB free disk untuk software dan logs
 ```
 
-* Settingan Server
+* Informasi Zimbra LDAP
 
 ```bash
- Domain = cilebut.co.id
+ Domain = bojong.co.id
  IP address = 192.168.1.198
- Mail = mail.cilebut.co.id
+ Hostname = ldap.bojong.co.id
+```
+
+* Informasi Zimbra LDAP
+
+```bash
+ Domain = bojong.co.id
+ IP address = 192.168.1.198
+ Hostname = ldap.bojong.co.id
+```
+
+* Informasi Zimbra Proxy
+
+```bash
+ Domain = bojong.co.id
+ IP address = 192.168.1.197
+ Hostname = webmail.bojong.co.id
+```
+
+* Informasi Zimbra Mailbox1
+
+```bash
+ Domain = bojong.co.id
+ IP address = 192.168.1.6
+ Hostname = mailbox1.bojong.co.id
+```
+
+* Informasi Zimbra Mailbox2
+
+```bash
+ Domain = bojong.co.id
+ IP address = 192.168.1.200
+ Hostname = mailbox2.bojong.co.id
+```
+
+* Informasi Zimbra MTA
+
+```bash
+ Domain = bojong.co.id
+ IP address = 192.168.1.201
+ Hostname = mta.bojong.co.id
 ```
 
 Berikut langkah - langkah instalasi Zimbra Single Server :
