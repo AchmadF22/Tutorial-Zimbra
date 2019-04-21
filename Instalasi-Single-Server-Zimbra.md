@@ -505,5 +505,5 @@ https://(IP Address)
 
 ![](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Single_Server_2.PNG)
 
-[**KEMBALI KE BERANDA**](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/README.md)
+[**KEMBALI KE BERANDA**](https://github.com/ProjectOprec/Tutorial-Zimbra/blob/master/README.md#tutorial-instalasi-zimbra-di-centos-7)
 
