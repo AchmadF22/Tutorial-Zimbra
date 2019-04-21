@@ -11,4 +11,4 @@ $TTL 1D
 198	PTR	www.cilebut.co.id.	
 198	PTR	mail.cilebut.co.id.	
 ```
-[Kembali](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Instalasi-Zimbra.md#instalasi-dns)
+[Kembali](https://github.com/ProjectOprec/Tutorial-Zimbra/blob/master/Instalasi-Single-Server-Zimbra.md#instalasi-dns)
