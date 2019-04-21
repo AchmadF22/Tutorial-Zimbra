@@ -48,5 +48,5 @@ Zimbra Collaboration Suite kompatibel dengan klien seperti Microsoft Outlook dan
 ## Tahapan Instalasi
 
 Dibawah ini tahapan instalasi **zimbra single server** dan **multi server** 
-- [Instruksi untuk **Zimbra Single Server**](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Instalasi-Zimbra.md)
+- [Instruksi untuk **Zimbra Single Server**](https://github.com/ProjectOprec/Tutorial-Zimbra/blob/master/Instalasi-Single-Server-Zimbra.md)
 - [Instruksi untuk **Zimbra Multi Server**](https://github.com/AchmadF22/Tutorial-Zimbra/blob/master/Instalasi-Zimbra.md)
