@@ -16,14 +16,6 @@
  Hostname = ldap.bojong.co.id
 ```
 
-* Informasi Zimbra LDAP
-
-```bash
- Domain = bojong.co.id
- IP address = 192.168.1.198
- Hostname = ldap.bojong.co.id
-```
-
 * Informasi Zimbra Proxy
 
 ```bash
